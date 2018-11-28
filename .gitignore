@@ -1,3 +1,8 @@
 Library/*
 Library/matedata/*
 Temp/*
+Temp/UnityVS_obj/Debug/*
+.vs/LockStep/v14/.suo
+LockStep.CSharp.Editor.csproj
+LockStep.CSharp.csproj
+LockStep.sln
